@@ -10,7 +10,6 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=khushimalik04&color=00f0ff&style=for-the-badge&label=PROFILE+SCANS)
 
 </div>
 
@@ -26,14 +25,9 @@
 <!-- LEFT — PROFILE IMAGE -->
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/profile_scan.png" width="100%" alt="Khushi Malik — Neural Scan"/>
+<img src="./assets/profile_scan.png" width="100%" style="height:100%; object-fit:cover; border-radius:8px;" alt="Khushi Malik — Neural Scan"/>
 
 <br>
-
-```
-◈ NEURAL INTERFACE [ACTIVE] ◈
-◈   AI MODEL GEN-15         ◈
-```
 
 </td>
 
