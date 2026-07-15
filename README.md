@@ -24,14 +24,23 @@
 <tr>
 
 <!-- LEFT — PROFILE IMAGE -->
-<td width="40%" align="center" valign="middle">
-<img src="./assets/profile_scan.png" width="100%" alt="Khushi Malik — Profile Scan"/>
+<td width="38%" align="center" valign="middle">
+
+<img src="./assets/profile_scan.png" width="100%" alt="Khushi Malik — Neural Scan"/>
+
+<br>
+
+```
+◈ NEURAL INTERFACE [ACTIVE] ◈
+◈   AI MODEL GEN-15         ◈
+```
+
 </td>
 
 <!-- RIGHT — PERSONAL DETAILS -->
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
-<h1>KHUSHI MALIK</h1>
+<h1>⟨ KHUSHI MALIK ⟩</h1>
 <h3>S O F T W A R E &nbsp; E N G I N E E R</h3>
 <p><strong>Full Stack Developer • Backend Engineer • Cloud Enthusiast</strong></p>
 
@@ -47,16 +56,7 @@
 <tr><td>✅ <strong>AVAILABILITY</strong></td><td><code>::</code></td><td>Open to Opportunities</td></tr>
 </table>
 
-</td>
-
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONNECT WITH ME — BELOW HERO -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<div>
 
 [![Email](https://img.shields.io/badge/📧_EMAIL-khushimalik0711%40gmail.com-00f0ff?style=for-the-badge&labelColor=0d1117)](mailto:khushimalik0711@gmail.com)
 &nbsp;
@@ -65,6 +65,11 @@
 [![GitHub](https://img.shields.io/badge/🐙_GITHUB-khushimalik04-00f0ff?style=for-the-badge&labelColor=0d1117)](https://github.com/khushimalik04)
 
 </div>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -166,7 +171,7 @@
 
 <table align="center">
 <tr>
-<td>
+<td width="33%" valign="top">
 
 ### 💼 Frontend Developer Intern
 **Anantixia** &nbsp; · &nbsp; `Mar 2026 → Present`
@@ -176,7 +181,7 @@
 - Collaborated with the team to build and ship features
 
 </td>
-<td>
+<td width="33%" valign="top">
 
 ### 💼 Full Stack Intern
 **FlashFire** &nbsp; · &nbsp; `Aug 2025 → Oct 2025`
@@ -186,7 +191,7 @@
 - Worked on API development and database design
 
 </td>
-<td>
+<td width="33%" valign="top">
 
 ### 💼 Full Stack Intern
 **Origin CoreTech, Gurugram** &nbsp; · &nbsp; `Jun 2025 → Aug 2025`
